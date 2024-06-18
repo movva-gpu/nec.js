@@ -1,0 +1,12 @@
+singleQuote: true
+trailingComma: none
+printWidth: 80
+endOfLine: crlf
+arrowParens: avoid
+bracketSameLine: false
+bracketSpacing: true
+htmlWhitespaceSensitivity: strict
+proseWrap: always
+semi: true
+singleAttributePerLine: true
+tabWidth: 4

@@ -1,0 +1,35 @@
+{
+    "$schema": "https://raw.githubusercontent.com/microsoft/vscode-html-languageservice/main/docs/customData.schema.json",
+    "version": 1.1,
+    "globalAttributes": [
+        {
+            "name": "data-cursor-object",
+            "description": "Indicates that this element is a cursor."
+        },
+        {
+            "name": "data-cursor-shape",
+            "description": "The shape of the cursor. Prefer using your own css for more custom cursors.",
+            "valueSet": "shapes"
+        },
+        {
+            "name": "data-cursor-size",
+            "description": "The size of the cursor in px (defaults to 48). Prefer using your own css for more custom cursors."
+        }
+    ],
+    "valueSets": [
+        {
+            "name": "shapes",
+            "values": [
+                {
+                    "name": "circle"
+                },
+                {
+                    "name": "square"
+                },
+                {
+                    "name": "triangle"
+                }
+            ]
+        }
+    ]
+}
