@@ -1,1 +1,3 @@
-# Never Enough Cursors.js (nec.js) - A custom cursor library for your html needs !
+# Never Enough Cursors (nec.js) - A custom cursor library
+
+W.I.P.
